@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794184984080",
+    "project_id": "ridesharing-76819",
+    "storage_bucket": "ridesharing-76819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794184984080:android:a8f8454356a7aa6e4acc95",
+        "android_client_info": {
+          "package_name": "com.camasss.myuti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794184984080-fc7bl2fb7br3qh7e58aa17a5caddfpb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT7P-jLj8VI09GMTWJCNet1SR3C8BLsAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794184984080-fc7bl2fb7br3qh7e58aa17a5caddfpb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

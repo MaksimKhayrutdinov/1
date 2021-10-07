@@ -1,0 +1,175 @@
+<resources>
+    <string name="app_name">Совместные поездки</string>
+
+
+    <string name="navigation_drawer_open">Открыть панель навигации</string>
+    <string name="navigation_drawer_close">Закрыть  панель навигации</string>
+
+    <string name="action_settings">Найстройки</string>
+    <string name="title_activity_maps">Карта</string>
+    <string name="title_activity_login">Войти</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Войти или зарегистрироваться</string>
+    <string name="action_sign_in_short">Войти</string>
+    <string name="error_invalid_email">Введенный Email неправильный</string>
+    <string name="error_invalid_password">Пароль слишком короткий</string>
+    <string name="error_incorrect_password">Пароль неправильный</string>
+    <string name="error_field_required">Это поле обязательно к заполнению</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+    <string name="yes">Да</string>
+    <string name="accept">Подтвердить</string>
+    <string name="decline">Отклонить</string>
+    <string name="are_you_sure_to_logout">Вы действительно хотите выйти?</string>
+    <string name="no">Нет</string>
+    <string name="login">Логин</string>
+    <string name="new_user">Новый пользователь?</string>
+    <string name="end">Конец</string>
+    <string name="next">Далее</string>
+    <string name="nic">Номер паспорта</string>
+    <string name="sign_up">Войти</string>
+    <string name="home">Главный экран</string>
+    <string name="my_rides">Мои поездки</string>
+    <string name="rides_history">История поездок</string>
+    <string name="my_profile">Мой профиль</string>
+    <string name="logout">Выйти</string>
+    <string name="logout_are_you_sure">Вы действительно хотите выйти?</string>
+    <string name="enter_here">Введите сюда</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="name">Имя</string>
+    <string name="enter_your_name">Укажите Ваше имя</string>
+    <string name="enter_your_email">Укажите Ваш Email</string>
+    <string name="email">Email</string>
+    <string name="number">Номер телефона</string>
+    <string name="enter_your_number">Укажите номер телефона</string>
+    <string name="gender">Пол</string>
+    <string name="select_your_gender">Укажите Ваш пол</string>
+    <string name="date_of_birth">Дата рождения</string>
+    <string name="enter_your_date_of_birth">Укажите Вашу дату рождения</string>
+    <string name="city">Город</string>
+    <string name="enter_your_city">Укажите Ваш город</string>
+    <string name="password">Пароль</string>
+    <string name="enter_your_password">Пароль</string>
+    <string name="submit">Подтвердить</string>
+    <string name="wait">Подождите...</string>
+    <string name="wait_text">Мы отправили вам код, он будет обнаружен автоматически, но если он не обнаружен, вы также можете ввести его ниже вручную</string>
+    <string name="enter_code">Введите код</string>
+    <string name="rate_ride">Оцените поездку</string>
+    <string name="rate">Оценка</string>
+    <string name="enter_seat">Введите количество мест для пассажиров</string>
+    <string name="enter_seat_no">Введите количество мест</string>
+    <string name="profile">Мой профиль </string>
+    <string name="father_name">Отчество</string>
+    <string name="license_number">Водительское удостоверение</string>
+    <string name="car_information">Информация об авто</string>
+    <string name="model">Модель</string>
+    <string name="car_number">Гос.номер</string>
+    <string name="car_color">Цвет авто</string>
+    <string name="destination_location">Введите адрес куда надо ехать</string>
+    <string name="starting_location">Введите начальное местоположение</string>
+    <string name="additional_info">Дополнительная информация</string>
+    <string name="route_detail">Детали маршрута</string>
+    <string name="car_details">Информация об авто</string>
+    <string name="ride_details">Информация о поездке</string>
+    <string name="seats_no">Кол-во мест</string>
+    <string name="seat_cost">Цена за место</string>
+    <string name="time">Время</string>
+    <string name="date">Дата</string>
+    <string name="ride_rules">Правила поездки</string>
+    <string name="smoking">Курение</string>
+    <string name="music">Музыка</string>
+    <string name="share_ride">Совместные поездки</string>
+    <string name="request_ride">Запросить поездку</string>
+    <string name="seats_booked">Мест забронировано</string>
+    <string name="total_cost">Общая стоимость</string>
+    <string name="track_ride">Отслеживать поездку</string>
+    <string name="pending">В ожидании</string>
+    <string name="accepted">Принято</string>
+    <string name="rejected">Отклоненно</string>
+    <string name="earned">Заработано</string>
+    <string name="cost_per_seat">Цена за место</string>
+    <string name="view_join_req">Запросы на поездку</string>
+    <string name="start_ride">Начать поездку</string>
+
+
+
+
+    <string name="all_rides">Все поездки</string>
+    <string name="my_ride_requests">Мои запросы на поездку</string>
+    <string name="browse_image">Просмотр изображения</string>
+    <string name="cant_book_your_own_ride">Невозможно забронировать поездку у самого себя</string>
+    <string name="choose_image">Выбрать изображение</string>
+    <string name="choose_all_images">Выбрать все изображения</string>
+    <string name="enter_nic">Укажите номер паспорта</string>
+    <string name="national_identity">Паспорт</string>
+    <string name="enter_car_model">Укажите модель</string>
+    <string name="car_model">Модель авто</string>
+    <string name="enter_car_number">Укажите гос.номер</string>
+    <string name="car_number_plate">Гос.номер</string>
+    <string name="enter_car_color">Укажите цвет авто</string>
+    <string name="enter_license_no">Укажите номер вод.прав</string>
+    <string name="license_no">Номер вод.прав</string>
+    <string name="enter_address">Укажите адрес</string>
+    <string name="address">Адрес</string>
+    <string name="upload_pic">Загрузите фото</string>
+    <string name="your_account_approval_is_pending">Ожидается одобрение вашего аккаунта</string>
+
+
+    <string name="error_loading_data">Поездки не найдены</string>
+    <string name="server_error">Server Error</string>
+    <string name="are_you_sure_you_want_to_cancel_ride">Вы уверены, что хотите отменить</string>
+    <string name="cancel">Отменить</string>
+    <string name="cancel_request">Отменить поездку</string>
+    <string name="request_successful">Запрос подтвержден</string>
+    <string name="ride_history">История поездок</string>
+    <string name="location_not_found">Место не найдено</string>
+    <string name="allow_permission">Allow permission to use the application</string>
+    <string name="turn_on_location">Включите GPS</string>
+    <string name="turn_on">Включить</string>
+    <string name="enter_no_of_seat">Введите количество мест</string>
+    <string name="enter_seat_cost">Введите стоимость места</string>
+    <string name="enter_time">Введите время</string>
+    <string name="enter_date">Введите дату</string>
+    <string name="ride_shared_successfully">Ride Shared Successfully</string>
+    <string name="ride_requested_successfully">Запрос успешно отправлен</string>
+    <string name="unable_to_locate">Не удалось определить Ваше местоположение</string>
+    <string name="enter_location_to_search">Введите местоположение для поиска</string>
+    <string name="only">Только</string>
+    <string name="seats_left">Мест осталось</string>
+    <string name="no_rides_found">Поездки не найдены...</string>
+    <string name="request_rejected">Запрос отклонен</string>
+    <string name="request_accepted">Запрос подтвержден</string>
+    <string name="ride_requests">Запросы на поездку</string>
+    <string name="enter_code_">Введите код…</string>
+    <string name="enter_name">Введите Имя</string>
+    <string name="enter_email">Укажите Ваш Emial</string>
+    <string name="enter_number">Укажите Ваш номер телефона</string>
+    <string name="enter_gender">Пол</string>
+    <string name="enter_city">Укажите город</string>
+    <string name="male">Мужчина</string>
+    <string name="female">Женщина</string>
+    <string name="ac">AC</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="enter_dob">Введите вашу дату рождения</string>
+    <string name="max_limit">Maximum Limit</string>
+    <string name="ride_not_started_yet">Поездка еще не началась</string>
+    <string name="ride_ended">Поездка закончилась</string>
+    <string name="kindly_provide_ratings">Пожалуйста, оставьте отзыв</string>
+    <string name="all_available_rides">Все доступные поездки</string>
+    <string name="account_created_successfully">Аккаунт создан успешно</string>
+    <string name="enter_a_valid_phone_number">Введите действующий номер телефона</string>
+    <string name="limit_reached_cant_book_more">Достигнут лимит, больше нельзя бронировать</string>
+    <string name="check_internet_connection">Проверьте подключение к Интернету и попробуйте еще раз</string>
+    <string name="enter_strating_location">Введите адрес откуда вы собираетесь поехать</string>
+    <string name="title_activity_register_selection">RegisterSelection</string>
+    <string name="enter_your_father_name">Введите отчество</string>
+    <string name="all_drivers">Все водители</string>
+
+
+
+</resources>
